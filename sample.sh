@@ -86,7 +86,7 @@ while [ $KONIEC == "-1" ];
 
         if [ $INFO_ZNAK == 1 ]
         then
-            printf "\nNiewłaściwy znak, podawaj wyłącznie numery!\n"
+            printf "\nNiewłaściwy znak, podawaj wyłącznie numery od 1 do 9!\n"
         fi
         if [ $INFO_POLE == 1 ]
         then

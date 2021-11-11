@@ -1,2 +1,8 @@
 # Kółko i Krzyżyk
-Ćwiczenie 1: Gra kółko i krzyżyk napisana w języku Bash.
+
+Uruchomienie gry w folderze głównym z plikiem sample.sh:
+
+### `bash sample.sh`
+
+Zaznaczenie konkretnego pola przez gracza odbywa sie poprzez podanie numer pola.
+

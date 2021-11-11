@@ -1,6 +1,6 @@
 # Kółko i Krzyżyk
 
-![alt text](/damianbarszcz/kolko-i-krzyzyk/blob/main/Obraz-aplikacji.png?raw=true)
+![alt text](https://raw.githubusercontent.com/damianbarszcz/kolko-i-krzyzyk/main/Obraz-aplikacji.png)
 
 Uruchomienie gry w folderze głównym z plikiem sample.sh:
 
